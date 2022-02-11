@@ -1,6 +1,6 @@
 # Fed Code Assesment
-View project 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+View project [Fed code asessment]()
+
 
 # Getting Started with Create React App
 
